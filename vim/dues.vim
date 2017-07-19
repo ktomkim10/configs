@@ -1,5 +1,5 @@
 " -----------------------------------------------------------------------------
-" File: deus.vim
+" File: dues.vim
 " Description: a retro-modern colorscheme in Vim
 " Author: ajmwagar
 " Source: https://github.com/ajmwagar/dues
